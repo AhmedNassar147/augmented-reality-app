@@ -15,9 +15,14 @@
   "dependencies": {
     "@expo/samples": "2.1.1",
     "expo": "29.0.0",
+    "expo-asset-utils": "^0.0.5",
+    "expo-graphics": "^1.0.0-alpha.2",
+    "expo-three": "^3.0.0-alpha.4",
     "react": "16.3.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
-    "react-navigation": "^2.9.3"
+    "react-navigation": "^2.9.3",
+    "three": "^0.96.0",
+    "whatwg-fetch": "^2.0.4"
   },
   "devDependencies": {
     "jest-expo": "29.0.0"
